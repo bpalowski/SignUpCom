@@ -2,8 +2,10 @@
 	display: flex;
  flex-direction: row;
  justify-content: space-evenly;
+
 }
  .single-Card{
+	 width: 150px;
 	font-size: 12px;
 	padding: 20px;
 	display: flex;
@@ -13,7 +15,7 @@
 }
 .single-Card > input{
 background-color: #F0F0F0;
-  width: 60vw;
+  width: auto;
 	margin: 9px;
 	padding: 11px;
 	border:none;
